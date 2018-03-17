@@ -12,6 +12,9 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ### Official
 - [Official Website](https://www.visualstudio.com)
 
+### PowerShell
+- [PowerShell Tools for Visual Studio](https://marketplace.visualstudio.com/items?itemName=AdamRDriscoll.PowerShellToolsforVisualStudio2017-18561)
+
 ### Productivity
 - [Resharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) :moneybag:
 
@@ -24,5 +27,5 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNTI2ODU0XX0=
+eyJoaXN0b3J5IjpbLTUwMjM2ODc0M119
 -->
