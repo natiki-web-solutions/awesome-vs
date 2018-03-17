@@ -24,12 +24,13 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 
 ### T4MVC
 [T4MVC](https://github.com/T4MVC/T4MVC) is a T4 template for ASP.NET MVC apps that creates strongly typed helpers that eliminate the use of literal strings in many places.
-- 
+- [AutoT4MVC](https://marketplace.visualstudio.com/items?itemName=BennorMcCarthy.AutoT4MVC)
+
 ### Web
 - [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)
 
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE3NzYzNzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQ0Mzg5MTddfQ==
 -->
