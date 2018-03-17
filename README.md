@@ -3,12 +3,13 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 
 ## Table Of Contents
 - [Official](#syntax)
-- [Refactoring](#refactoring)
+- [Productivity](#productivity)
 
 ### Official
 - [Official Website](https://www.visualstudio.com)
 
-### Refactoring
+### Productivity
+- [Resharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDc3NTM0XX0=
+eyJoaXN0b3J5IjpbMTA4NTUyNjk2OV19
 -->
