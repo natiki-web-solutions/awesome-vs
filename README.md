@@ -4,6 +4,7 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ## Table Of Contents
 - [Official](#official)
 - [Productivity](#productivity)
+- 
 - [Uncategorised](#uncategorised)
 
 ### Official
@@ -14,5 +15,5 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMjI2MDI3XX0=
+eyJoaXN0b3J5IjpbLTg0MDY2NTk2OF19
 -->
