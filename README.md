@@ -28,10 +28,11 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 - [AutoT4MVC](https://marketplace.visualstudio.com/items?itemName=BennorMcCarthy.AutoT4MVC)
 
 ### Web
+- [Package Installer]()
 - [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)
 
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYwNzY1NTldfQ==
+eyJoaXN0b3J5IjpbLTE1MjUzNjI0M119
 -->
