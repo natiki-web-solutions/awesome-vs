@@ -9,7 +9,7 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 - [Official Website](https://www.visualstudio.com)
 
 ### Productivity
-- [Resharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper
+- :moneybag: [Resharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTUyNjk2OV19
+eyJoaXN0b3J5IjpbLTE4ODQ2NTE0ODhdfQ==
 -->
