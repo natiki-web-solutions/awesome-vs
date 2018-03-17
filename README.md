@@ -16,8 +16,11 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 
 ### Source Control
 - [GitHub](https://visualstudio.github.com/)
+
+### Web
+- [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTQyMzU4NV19
+eyJoaXN0b3J5IjpbLTE1NTUzNTc1NTJdfQ==
 -->
