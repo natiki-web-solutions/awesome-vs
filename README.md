@@ -6,6 +6,7 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 - [Productivity](#productivity)
 - [PowerShell](#powershell)
 - [Source Control](#source-control)
+- [T4MVC](#t4mvc)
 - [Web](#web)
 - [Uncategorised](#uncategorised)
 
@@ -20,6 +21,7 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 
 ### Source Control
 - [GitHub](https://visualstudio.github.com/)
+###
 
 ### Web
 - [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)
@@ -27,5 +29,5 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjM2ODc0M119
+eyJoaXN0b3J5IjpbLTE0MTA1MzcwNDldfQ==
 -->
