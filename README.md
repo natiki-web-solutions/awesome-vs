@@ -19,8 +19,9 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 
 ### Web
 - [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)
+
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUzNTc1NTJdfQ==
+eyJoaXN0b3J5IjpbMTc2MzgyOTkyMl19
 -->
