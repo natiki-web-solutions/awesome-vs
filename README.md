@@ -3,9 +3,12 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 
 ## Table Of Contents
 - [Official](#syntax)
+- [Refactoring](#refactoring)
 
 ### Official
 - [Official Website](https://www.visualstudio.com)
+
+### Refactoring
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTIzOTkxMl19
+eyJoaXN0b3J5IjpbMTYwMDc3NTM0XX0=
 -->
