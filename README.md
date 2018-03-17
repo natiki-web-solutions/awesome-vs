@@ -18,6 +18,7 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 
 ### Productivity
 - [Resharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) :moneybag:
+- [VsColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 
 ### Source Control
 - [GitHub](https://visualstudio.github.com/)
@@ -32,5 +33,5 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ0Mzg5MTddfQ==
+eyJoaXN0b3J5IjpbLTEwNzYwNzY1NTldfQ==
 -->
