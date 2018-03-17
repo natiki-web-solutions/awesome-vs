@@ -4,7 +4,7 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ## Table Of Contents
 - [Official](#official)
 - [Productivity](#productivity)
-- [Source Control](#sourcecontrol)
+- [Source Control](#source-control)
 - [Web](#web)
 - [Uncategorised](#uncategorised)
 
@@ -23,5 +23,5 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzgyOTkyMl19
+eyJoaXN0b3J5IjpbLTE0MTYxMTExNDVdfQ==
 -->
