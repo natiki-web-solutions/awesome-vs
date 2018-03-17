@@ -1,5 +1,6 @@
 # Awesome Visual Studio
 [![Build Status](https://travis-ci.org/natiki-web-solutions/awesome-vs.svg?branch=master)](https://travis-ci.org/natiki-web-solutions/awesome-vs)
+
 A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more awesomeness check out [awesome](https://github.com/sindresorhus/awesome). Please contribute packages that you find useful. The idea here is not that you would necessarily install all the packages listed here but rather pick the ones that best suit you and your workflow. This list is meant to help let you know what is out there.
 
 ## Table Of Contents
