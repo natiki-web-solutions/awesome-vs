@@ -5,7 +5,7 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 - [Official](#syntax)
 
 ### Official
-
+- [Official Website](https://www.visualstudio.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMDkyMjk3XX0=
+eyJoaXN0b3J5IjpbMTE3MTIzOTkxMl19
 -->
