@@ -4,7 +4,7 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 ## Table Of Contents
 - [Official](#official)
 - [Productivity](#productivity)
-- [Source Control](#source control)
+- [Source Control](#sourcecontrol)
 - [Uncategorised](#uncategorised)
 
 ### Official
@@ -14,9 +14,9 @@ A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more aweso
 - [Resharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) :moneybag:
 
 ### Source Control
-- [GitHub]()
+- [GitHub](https://visualstudio.github.com/)
 ### Uncategorised
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NjY1MDE2XX0=
+eyJoaXN0b3J5IjpbLTEzMDA3NzI2OTRdfQ==
 -->
