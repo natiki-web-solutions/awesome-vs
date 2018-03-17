@@ -1,9 +1,9 @@
 # Awesome Visual Studio
 A curated list of Microsoft Visual Studio Tools &amp; Extensions. For more awesomeness check out [awesome](https://github.com/sindresorhus/awesome).
 
-Table Of Contents
+## Table Of Contents
 
-Official
+### Official
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM1OTYzNDddfQ==
+eyJoaXN0b3J5IjpbLTE5MjUxNTAzMThdfQ==
 -->
